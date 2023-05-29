@@ -1,0 +1,113 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:08.220 --> 00:00:13.050
+Microcomputer kits are commercially available
+with resources available to get started.
+
+00:00:13.050 --> 00:00:17.130
+The Raspberry Pi computing application was
+used for the sensors in the building example
+
+00:00:17.130 --> 00:00:18.140
+just covered.
+
+00:00:18.140 --> 00:00:23.820
+The product and similar ones are good options
+for constructing DIY sensor kits because of
+
+00:00:23.820 --> 00:00:28.560
+the ability to perform electronics and coding
+tasks to activate the sensor kit.
+
+00:00:28.560 --> 00:00:32.016
+Remember, detailed information about constructing kits and programming
+
+00:00:32.016 --> 00:00:35.450
+the microcomputer are available in the Resources.
+
+00:00:35.450 --> 00:00:39.290
+Here is a little more information about activating
+the microcomputer.
+
+00:00:39.290 --> 00:00:44.410
+To get started Raspbian Operating System is
+flashed onto an SD card.
+
+00:00:44.410 --> 00:00:49.160
+Also many Raspberry Pi kits are sold with
+NOOBS installer already pre-loaded onto the
+
+00:00:49.160 --> 00:00:55.030
+SD card so that you can install directly during
+the first boot-up of the system.
+
+00:00:55.030 --> 00:00:59.400
+This hardware is the microcomputer product
+used in the under-the-sink water sensor kit.
+
+00:00:59.400 --> 00:01:05.100
+It is a product that can store, process, and
+display data.
+
+00:01:05.100 --> 00:01:06.960
+After you have the hardware, relevant coding
+is needed to activate the microcomputer.
+
+00:01:06.960 --> 00:01:14.210
+Download the sensorkit.py file from the provided
+github repository link.
+
+00:01:14.210 --> 00:01:19.790
+Place the file on Raspberry Pi or any computer
+folder you want to operate from.
+
+00:01:19.790 --> 00:01:23.510
+Computer codes were written for the under-the-sink
+water sensor kit.
+
+00:01:23.510 --> 00:01:25.460
+The codes are available for use.
+
+00:01:25.460 --> 00:01:29.420
+Look for the link in the Resources section.
+
+00:01:29.420 --> 00:01:34.190
+Data can be retrieved and stored either manually
+or with online access.
+
+00:01:34.190 --> 00:01:40.030
+After the program is running, a "data.csv"
+file is automatically generated and saved
+
+00:01:40.030 --> 00:01:44.159
+in the same folder as where the Python program
+resides.
+
+00:01:44.159 --> 00:01:47.410
+Sensor data is logged every five minutes.
+
+00:01:47.410 --> 00:01:52.980
+To remove the data file a USB drive can be
+used to copy the file to another location,
+
+00:01:52.980 --> 00:01:57.560
+and then open the file with Excel or another
+spreadsheet application of your choice.
+
+00:01:57.560 --> 00:02:03.310
+The Raspberry pi has ethernet and WiFi capabilities
+for connecting to the internet.
+
+00:02:03.310 --> 00:02:08.670
+Sensor output can be connected to any online
+database such as Google Sheets.
+
+00:02:08.670 --> 00:02:12.090
+Exported data can be used to host an online
+dashboard.
+
+00:02:12.090 --> 00:02:14.450
+The dashboard helps with visualizing data.
+

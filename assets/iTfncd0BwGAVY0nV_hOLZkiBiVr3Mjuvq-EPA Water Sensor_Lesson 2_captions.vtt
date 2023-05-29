@@ -1,0 +1,87 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:06.120 --> 00:00:11.139
+This is the exterior view of the water sensor
+kit with the display screen, on/off switch,
+
+00:00:11.139 --> 00:00:15.880
+access for wiring, connections for sensors,
+and inlet/outlet for water to flow through
+
+00:00:15.880 --> 00:00:17.400
+the sensor kit.
+
+00:00:17.400 --> 00:00:21.710
+The kit is made from a hard, waterproof case
+that allows the kit to be deployed in wet
+
+00:00:21.710 --> 00:00:25.380
+and dry environments both indoor and outdoor.
+
+00:00:25.380 --> 00:00:30.550
+Kits can be deployed using the internal water-quality-sensor
+flow cell by connecting the inlet to a water
+
+00:00:30.550 --> 00:00:31.550
+source.
+
+00:00:31.550 --> 00:00:36.920
+The kit can also be used by connecting sensors
+to the case and then measuring grab samples.
+
+00:00:36.920 --> 00:00:40.820
+The data are stored locally on a microcomputer
+in the case.
+
+00:00:40.820 --> 00:00:46.420
+The water sensor kit can be powered by battery
+or plugged into an electrical outlet.
+
+00:00:46.420 --> 00:00:49.469
+This is the interior of the water sensor kit.
+
+00:00:49.469 --> 00:00:55.359
+Inside there is a flow cell with water quality
+sensor, microcomputer, battery, and associated
+
+00:00:55.359 --> 00:00:56.359
+wiring.
+
+00:00:56.359 --> 00:01:00.420
+The flow cell in the kit includes two sensors
+and can be designed differently depending
+
+00:01:00.420 --> 00:01:03.969
+on monitoring needs.
+
+00:01:03.969 --> 00:01:08.800
+This is a general wiring diagram applicable
+for the under-the-sink water sensor kit shown
+
+00:01:08.800 --> 00:01:11.250
+in the first video.
+
+00:01:11.250 --> 00:01:16.720
+Microcomputers such as Raspberry Pi and Arduino
+are designed to be wired and programmed by
+
+00:01:16.720 --> 00:01:17.970
+the user.
+
+00:01:17.970 --> 00:01:22.610
+With the option to power a water sensor kit
+by battery or an electrical outlet, the kit
+
+00:01:22.610 --> 00:01:27.691
+can be designed to alternate between the two
+power sources depending on the application.
+
+00:01:27.691 --> 00:01:31.030
+A detailed description of the sensor kit is
+available for download.
+
+00:01:31.030 --> 00:01:33.180
+See the link in the Resources section.
+
